@@ -1,11 +1,11 @@
 # Site settings
-title: Estimote Unity
+title: Estimote Unity Indoor Location
 email: support@o-mobile.co.uk
 description: >
-  Estimote Unity Documentation
+  Estimote Unity Indoor Location Documentation
 
-baseurl: "/EstimoteUnityDocs" # the subpath of your site, e.g. /blog/
-url: https://o-mobile.github.io/EstimoteUnityDocs/ # the base hostname & protocol for your site
+baseurl: "/EstimoteUnityIndoorLocationDocs" # the subpath of your site, e.g. /blog/
+url: https://o-mobile.github.io/EstimoteUnityIndoorLocationDocs/ # the base hostname & protocol for your site
 #git_address: https://github.com/aksakalli/jekyll-doc-theme
 #git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 

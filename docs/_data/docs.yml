@@ -3,7 +3,6 @@
     - introduction
     - system_requirements
     - quick_start_guide
-    - estimote_cloud
     - examples
     - support
 
@@ -15,13 +14,4 @@
 
 - title: Changelog
   docs:
-    - changelog/1.2.0
-    - changelog/1.1.0
-    - changelog/1.0.7
-    - changelog/1.0.6
-    - changelog/1.0.5
-    - changelog/1.0.4
-    - changelog/1.0.3
-    - changelog/1.0.2
-    - changelog/1.0.1
     - changelog/1.0.0
