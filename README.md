@@ -1,3 +1,2 @@
-# EstimoteUnity
-Documentation for the Estimote Unity plugin, available on the Unity Asset Store:
-[http://u3d.as/GDU](http://u3d.as/GDU)
+# EstimoteUnityIndoorLocation
+Documentation for the Estimote Unity Indoor Location plugin, available on the Unity Asset Store:
