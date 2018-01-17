@@ -3,14 +3,20 @@
     - introduction
     - system_requirements
     - quick_start_guide
+    - permissions
     - examples
     - support
+    - faq
 
 - title: API
   docs:
-    - estimote_unity_beacon
-    - estimote_unity_beacon_cloud_info
-    - estimote_unity
+    - indoor_location
+    - location
+    - location_beacon
+    - location_position
+    - location_wall
+    - base_location_renderer
+    - location_line_renderer
 
 - title: Changelog
   docs:
